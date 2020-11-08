@@ -1,5 +1,5 @@
 #USAGE
-#python detect_facea.py --image file_name.jpg --protoxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
+#python detect_faces.py --image file_name.jpg --prototxt deploy.prototxt.txt --model res10_300x300_ssd_iter_140000.caffemodel
 
 import numpy as np
 import argparse
